@@ -1,5 +1,7 @@
 Thrift PHP Software Library
 
+This repository was cloned from https://github.com/apache/thrift using the script found in create-mirror.sh
+
 License
 =======
 
